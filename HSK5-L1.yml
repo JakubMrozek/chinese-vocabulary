@@ -4,5 +4,11 @@
   chars: 
     细: thin, soft (silk thread + field)
     节: part, segment, to economize, festival
-  hint: Jedno vlákno hedvábí na poli je (v rámci celého pole vlastně jen detail).
-- 
+  hint: Jedno vlákno hedvábí na poli je (v rámci celého pole) vlastně jen detail.
+- word: 电台
+  pron: diàntái
+  trans: radio station
+  chars: 
+    电: electricity
+    台: platform, station, broadcasting station, measure word for vehicles
+  
