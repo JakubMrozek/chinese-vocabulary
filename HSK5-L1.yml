@@ -1,96 +1,111 @@
-- word: 细节
+- id: 500101
+  word: 细节
   pron: xìjié
   trans: detail
   chars: 
     细: thin, soft (silk thread + field)
     节: part, segment, to economize, festival
   hint: Jedno vlákno hedvábí na poli je (v rámci celého pole) vlastně jen detail.
-- word: 电台
+- id: 500102 
+  word: 电台
   pron: diàntái
   trans: radio station
   chars: 
     电: electricity
     台: platform, station, broadcasting station, measure word for vehicles
   hint: Na elektrické stanici (městské) je rádio.
-- word: 恩爱
+- id: 500103
+  word: 恩爱
   pron: ēn'ài
   trans: loving (of husband and wife)
   chars: 
     恩: grace, favor, kindness (因 cause + 心 heart, velká laskavost od srdce)
     爱: to love, affection, to be fond of, to like
   hint: Láska je milost.
-- word: 对比
+- id: 500104
+  word: 对比
   pron: duìbǐ
   trans: to contrast, to compare
   chars: 
     对: correct, couple, pair, to face, to be opposite
     比: to compare
   hint: Porovnávat je správné.
-- word: 入围
+- id: 500105
+  word: 入围
   pron: rùwéi
   trans: to be shortlisted, to make the final list (of candidates)
   chars: 
     入: to enter, to go into
     围: to surround (囗 border + 韦 leather)
   hint: Do finále se dostal ten, kdo obklopil hranice.
-- word: 评委
+- id: 500106
+  word: 评委
   pron: píngwěi
   trans: judge, member of a judging panel
   chars: 
     评: to comment, to criticize, to judge (讠words + 平 flat)
     委: committee member, council (禾 cereal, grain + 女 woman, žena sbírá na poli obilí)
   hint: Členové poroty hodnotí slova, která řeknou ženy na poli.
-- word: 如何
+- id: 500107
+  word: 如何
   pron: rúhé
   trans: how
   chars:
     如: if
     何: what, how, why, 亻+ 可
-- word: 瘫痪
+- id: 500108
+  word: 瘫痪
   pron: tānhuàn
   trans: to be paralyzed
   chars:
     瘫: to paralyze, to be paralyzed (疒sickness + 难 difficult)
     痪: paralysis (疒sickness + 奂 numerous, brilliant)
   hint: Na Tantanu je člověk občas paralyzován.
-- word: 离婚
+- id: 500109
+  word: 离婚
   pron: líhūn
   trans: to divorce
   chars:
     离: to leave, to part from, to be away from (离 leave + 田 field)
     婚: to marry, marriage, 女 + 昏 dusk, nightfall (氏 clan + 日 sun)
-- word: 自杀
+- id: 500110
+  word: 自杀
   pron: zìshā
   trans: suicide
   chars:
     自: self
     杀: to kill, to murder, to attack (乂 govern, control + 木 tree, wood)
-- word: 抱怨
+- id: 500111
+  word: 抱怨
   pron: bàoyuàn
   trans: to complain
   chars:
     抱: to hug
     怨: to blame, to complain, 夗 to turn over when sleep + 心 heart
   hint: Objímat Yuany a stěžovat si, že jich mám málo.
-- word: 爱护
+- id: 500112
+  word: 爱护
   pron: àihù
   trans: to take good care of
   chars: 
     爱: to love
     护: to protect (扌+ 户 door, family)
-- word: 婚姻
+- id: 500113
+  word: 婚姻
   pron: hūnyīn
   trans: marriage
   chars:
     婚: to marry, marriage, 女 + 昏 dusk, nightfall (氏 clan + 日 sun)
     姻: marriage connections, 女 + 因 cause, reason
-- word: 吵架
+- id: 500114
+  word: 吵架
   pron: chǎojià
   trans: to quarrel
   chars:
     吵: to make noise, noisy, 口 mouth + 少 few
     架: to support, to frame, 加 + 木
-- word: 相敬如宾
+- id: 500115
+  word: 相敬如宾
   pron: xiāng jìng rú bīn
   trans: mutual respect and care (between husband and wife, idiom)
   chars:
@@ -98,31 +113,284 @@
     敬: to respect (苟 careless + 攵 to let go) 
     如: like, as if
     宾: visitor, guest, 宀 + 兵 soldier (丘 hill + 八)
-- word: 暗暗
+- id: 500116
+  word: 暗暗
   pron: àn'àn
   trans: secretly, to oneself
   chars:
     暗: dark, gloomy, tajný (日 + 音 sound)
-- word: 轮
+- id: 500117
+  word: 轮
   pron: lún
   trans: to take turn
   chars:
     轮: wheel, to take turns, 车 + 仑
-- word: 不耐烦
+- id: 500118
+  word: 不耐烦
   pron: bùnàifán
   trans: impatient
   chars:
     不: not
     耐: patient, 而 and + 寸 inch, small, tiny
     烦: to bother, to feel vexed, 火 + 页 (page)
-- word: 靠
+- id: 500119
+  word: 靠
   pron: kào
   trans: to lean against, to depend on
   chars:
     靠: 告 to tell, to inform + 非 not
-- word: 肩膀
+- id: 500120
+  word: 肩膀
   pron: jiānbǎng
   trans: shoulder
   chars:
     肩: shoulder, 户 family, door + ⺼ meat
     膀: upper arm, ⺼ meat + 旁 one side, other (立 to stand + 方 square)
+- id: 500121
+  word: 喊
+  pron: hǎn
+  trans: to shout, to call out
+  chars:
+    喊: 口 + 咸 salted
+- id: 500122
+  word: 伸
+  pron: shēn
+  trans: to stretch, to extend
+  chars:
+    伸: 亻+ 申 to explain
+- id: 500123
+  word: 手指
+  pron: shǒuzhǐ
+  trans: finger
+  chars:
+    手: hand
+    指: finger, to point at, to refer to, 扌+ 旨 to aim at
+- id: 500124
+  word: 歪歪扭扭
+  pron: wāiwāi niǔniǔ
+  trans: crooked, askew, not straight
+  chars:
+    歪: askew, 不 no, not + 正 straight
+    扭: to turn, to twist, 扌+ 丑 ugly
+- id: 500125
+  word: 递
+  pron: dì
+  trans: to hand over, to pass
+  chars:
+    递: to hand over, to pass, 辶 + 弟 younger brother
+- id: 500126
+  word: 脑袋
+  pron: nǎodai
+  trans: head
+  chars:
+    脑: brain, mind, ⺼ + 亠 + 凶 
+    袋: bag, pocket, 代 era + 衣 cloth
+- id: 500127
+  word: 女士
+  pron: nǚshì
+  trans: lady, woman
+  chars:
+    女: woman
+    士: scholar, gentleman
+- id: 500128
+  word: 叙述
+  pron: xùshù
+  trans: to tell or talk about, to narrate (vyprávět)
+  chars:
+    叙: to narrate, 余 surplus + 又 and, also
+    述: to state, to tell, to narrate, 辶 + 术 (art, skill)
+  hint: Vyprávět o přebytku a taky o umění.
+- id: 500129
+  word: 居然
+  pron: jūrán
+  trans: unexpectedly, to one's surprise
+  chars:
+    居: to reside, to live, to dwell, 尸 body, door, family + 古 ancient
+    然: correct, right, 肰 dog meat + 灬 fire 
+- id: 500130
+  word: 催
+  pron: cuī
+  trans: to urge, to push
+  chars:
+    催: 亻person + 崔 high, lofty (山 mountain + 隹 short tailed bird)
+- id: 500131
+  word: 等待
+  pron: děngdài
+  trans: to wait
+  chars:
+    等: to wait, to treat equally, ⺮ bamboo + 寺 temple
+    待: to stay, to wait, 彳 to step + 寺 temple
+- id: 500132
+  word: 蚊子
+  pron: wénzi
+  trans: mosquito
+  chars:
+    蚊: mosquito, 虫 insect + 文 literature, culture
+    子: suffix
+- id: 500133
+  word: 半夜
+  pron: bànyè
+  trans: midnight, in the middle of the night
+  chars:
+    半: half
+    夜: night, 亠 + 亻+ 夕 evening
+- id: 500134
+  word: 叮
+  pron: dīng
+  trans: to sting, to bite
+  chars:
+    叮: 口 + 丁 nail, peg
+- id: 500135
+  word: 老婆
+  pron: lǎopó
+  trans: wife
+  chars:
+    老: old
+    婆: grandmother, 波 vlny, vlnky (氵+ 皮 skin) + 女 woman
+- id: 500136
+  word: 吵
+  pron: chǎo
+  trans: to quarrel, to make noise
+  chars:
+    吵: 口 mouth + 少 few
+- id: 500137
+  word: 项
+  pron: xiàng
+  trans: classifier for itemized things
+  chars:
+    项: 工 labour, work + 页 page
+- id: 500138
+  word: 患难与共
+  pron: huàn nàn yǔ gòng
+  trans: to share weal and woe (sdílet útrapy společně, idiom)
+  chars:
+    患: to suffer, 串 string, relatives + 心 
+    难: difficult, hard
+    与: and, with
+    共: common
+- id: 500139
+  word: 可能性
+  pron: kěnéngxìng
+  trans: possibility
+  chars:
+    可: possible, can
+    能: ability, capability
+    性: nature, character, property
+- id: 500140
+  word: 从不
+  pron: cóngbù
+  trans: never, not once
+  chars:
+    从: from, since
+    不: not
+- id: 500141
+  word: 随后
+  pron: suíhòu
+  trans: afterwards, later
+  chars:
+    随: to follow, 阝city + 迶 to walk
+    后: after, behind
+- id: 500142
+  word: 红脸
+  pron: hóngliǎn
+  trans: to get angry, to flush
+  chars:
+    红: red, 纟silk + 工 labour, work
+    脸: face
+- id: 500143
+  word: 脸红
+  pron: liǎnhóng
+  trans: blushing, face turning red
+  chars:
+    脸: face
+    红: red, 纟silk + 工 labour, work
+- id: 500144
+  word: 相亲相爱
+  pron: xiāngqīnxiāngài
+  trans: mutual love and affection
+  chars:
+    相: mutual, each other
+    亲: love, affection, relative, stojí s malým
+    相: mutual, each other
+    爱: love
+- id: 500145
+  word: 点头
+  pron: diǎntóu
+  trans: to nod
+  chars:
+    点: dot, point, drop, 灬fire + 占 to divine, to observe
+    头: head
+- id: 500146
+  word: 行
+  pron: háng
+  trans: row, line
+  chars:
+    行: to walk, to go, 彳 to step + 亍 to go slowly
+- id: 500147
+  word: 纸条
+  pron: zhǐtiáo
+  trans: paper note, piece of paper
+  chars:
+    纸: paper, 纟silk + 氏 clan
+    条: measure word for long thin things, 夂 to let go + 木 tree, wood
+- id: 500148
+  word: 奖项
+  pron: jiǎngxiàng
+  trans: award, prize
+  chars: 
+    奖: price, award, 丬polovina stromu + 夕 večer + 大, dostaneš polovinu velkého stromu jako bonus
+    项: classifier for itemized things, 工 labour, work + 页 page
+- id: 500149
+  word: 脖子
+  pron: bózi
+  trans: neck
+  chars:
+    脖: neck, ⺼ meat + 孛 comet (十 + 冖 + 子)
+    子: suffix
+- id: 500150
+  word: 胸
+  pron: xiōng
+  trans: chest, breast
+  chars:
+    胸: chest, breast, ⺼ meat + 匈 chest (勹 wrap + 凶 bad, sad)
+- id: 500151
+  word: 腰
+  pron: yāo
+  trans: waist
+  chars:
+    腰: waist, ⺼ meat + 要 important, necessary
+- id: 500152
+  word: 后背
+  pron: hòubèi
+  trans: back
+  chars:
+    后: after, behind
+    背: back, 北 north + ⺼ meat
+- id: 500153
+  word: 眉毛
+  pron: méimáo
+  trans: eyebrow
+  chars:
+    眉: eyebrow, 尸 body, corpse + 目 eye
+    毛: hair, fur
+- id: 500154
+  word: 嗓子
+  pron: sǎngzi
+  trans: throat
+  chars:
+    嗓: throat, 口 mouth + 桑 mulberry tree (叒 obedient + 木 tree, wood)
+    子: suffix
+- id: 500155
+  word: 牙齿
+  pron: yáchǐ
+  trans: tooth
+  chars:
+    牙: tooth
+    齿: tooth, 止 to stop + 凵 container + 人 person
+- id: 500156
+  word: 婚礼
+  pron: hūnlǐ
+  trans: wedding ceremony
+  chars: 
+    婚: to marry, marriage, 女 + 昏 dusk, nightfall (氏 clan + 日 sun)
+    礼: gift, 礻 spirit + 乚 hidden
