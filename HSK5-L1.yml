@@ -33,3 +33,35 @@
     入: to enter, to go into
     围: to surround (囗 border + 韦 leather)
   hint: Do finále se dostal ten, kdo obklopil hranice.
+- word: 评委
+  pron: píngwěi
+  trans: judge, member of a judging panel
+  chars: 
+    评: to comment, to criticize, to judge (讠words + 平 flat)
+    委: committee member, council (禾 cereal, grain + 女 woman, žena sbírá na poli obilí)
+  hint: Členové poroty hodnotí slova, která řeknou ženy na poli.
+- word: 如何
+  pron: rúhé
+  trans: how
+  chars:
+    如: if
+    何: what, how, why, 亻+ 可
+- word: 瘫痪
+  pron: tānhuàn
+  trans: to be paralyzed
+  chars:
+    瘫: to paralyze, to be paralyzed (疒sickness + 难 difficult)
+    痪: paralysis (疒sickness + 奂 numerous, brilliant)
+  hint: Na Tantanu je člověk občas paralyzován.
+- word: 离婚
+  pron: líhūn
+  trans: to divorce
+  chars:
+    离: to leave, to part from, to be away from (离 leave + 田 field)
+    婚: to marry, marriage, 女 + 昏 dusk, nightfall (氏 clan + 日 sun)
+- word: 自杀
+  pron: zìshā
+  trans: suicide
+  chars:
+    自: self
+    杀: to kill, to murder, to attack (乂 govern, control + 木 tree, wood)
