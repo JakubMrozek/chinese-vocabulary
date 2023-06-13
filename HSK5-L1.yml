@@ -11,4 +11,25 @@
   chars: 
     电: electricity
     台: platform, station, broadcasting station, measure word for vehicles
-  
+  hint: Na elektrické stanici (městské) je rádio.
+- word: 恩爱
+  pron: ēn'ài
+  trans: loving (of husband and wife)
+  chars: 
+    恩: grace, favor, kindness (因 cause + 心 heart, velká laskavost od srdce)
+    爱: to love, affection, to be fond of, to like
+  hint: Láska je milost.
+- word: 对比
+  pron: duìbǐ
+  trans: to contrast, to compare
+  chars: 
+    对: correct, couple, pair, to face, to be opposite
+    比: to compare
+  hint: Porovnávat je správné.
+- word: 入围
+  pron: rùwéi
+  trans: to be shortlisted, to make the final list (of candidates)
+  chars: 
+    入: to enter, to go into
+    围: to surround (囗 border + 韦 leather)
+  hint: Do finále se dostal ten, kdo obklopil hranice.
