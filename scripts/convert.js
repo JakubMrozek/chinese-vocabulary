@@ -2,7 +2,7 @@ const fs = require('fs')
 const yaml = require('js-yaml')
 const ejs = require('ejs')
 
-const yamlData = fs.readFileSync('./italki-2023-06-14.yml', 'utf8')
+const yamlData = fs.readFileSync('../italki-2023-06-14.yml', 'utf8')
 const jsonData = yaml.load(yamlData)
 
 const html = ejs.render(`    
