@@ -1,0 +1,133 @@
+- id: 358001
+  word: 禁食
+  pron: jìnshí
+  trans: to fast, a fast
+  chars: 
+    禁: to prohibit, to forbid, 林 forest + 示 to show, ceremony
+    食: to eat, to drink, 人 person + 良 good, virtuous
+- id: 358002
+  word: 保持
+  pron: bǎochí
+  trans: to keep, to maintain, to hold
+  chars:
+    保: to protect, to defend, 亻 person + 呆 stupid, dumb
+    持: to hold, to support, 扌+ 寺 court, office, monastery
+- id: 358003
+  word: 康复
+  pron: kāngfù
+  trans: to recover, to regain health
+  chars:
+    康: healthy, 广 broad, vast, wide + 隶 servant, to serve
+    复: to recover, to return to, 亻person + 日 day + 夂 to go
+- id: 358004
+  word: 公布
+  pron: gōngbù
+  trans: to announce, to make public
+  chars:
+    公: public, 八 eight + 厶 private, secret
+    布: cloth, to announce, to declare, 巾 cloth
+- id: 358005
+  word: 证书
+  pron: zhèngshū
+  trans: certificate
+  chars:
+    证: to prove, to confirm, 讠speech, words + 正 upright, straight
+    书: book, letter
+- id: 358006
+  word: 恭喜
+  pron: gōngxǐ
+  trans: to congratulate
+  chars:
+    恭: respectful, to congratulate, 共 + 心 heart
+    喜: to like, to be fond of, 壴 drum + 口 mouth
+- id: 358007
+  word: 集
+  pron: jí
+  trans: to gather, to collect, set, collection, episode
+  chars:
+    集: 隹 short tailed bird + 木 tree
+- id: 358008
+  word: 称呼
+  pron: chēnghu
+  trans: to call, to address as
+  chars:
+    称: to call, to address as, 禾 grain, cereals + 尔 you
+    呼: to call, to cry, 口 mouth + 乎 interrogative particle
+- id: 358009
+  word: 台风
+  pron: táifēng
+  trans: typhoon
+  chars: 
+    台: platform, stage
+    风: wind, 几 table, desk + 乂 to govern, control
+- id: 358010
+  word: 惊讶
+  pron: jīngyà
+  trans: to be surprised, to be amazed
+  chars:
+    惊: to startle, to be frightened, 忄heart + 京 capital
+    讶: to be surprised, 讠speech, words + 牙 tooth
+- id: 358011
+  word: 助理
+  pron: zhùlǐ
+  trans: assistant
+  chars:
+    助: to help, to assist, 且 moreover + 力 power, strength
+    理: to manage, to handle, 王 king, royal + 里 village
+- id: 358012
+  word: 兵
+  pron: bīng
+  trans: soldier, troops, weapon
+  chars:
+    兵: soldier, troops, weapon, 丘 hill + 八
+- id: 358013
+  word: 锅
+  pron: guō
+  trans: pot, pan
+  chars:
+    锅: pot, pan, 钅gold, medal + 呙 to chat, to gossip
+- id: 358014
+  word: 番茄
+  pron: fānqié
+  trans: tomato
+  chars:
+    番: 米 + 田 field, farm
+    茄: eggplant, 艹 grass + 加 to add
+- id: 358015
+  word: 虾
+  pron: xiā
+  trans: shrimp, prawn
+  chars:
+    虾: 虫 insect + 下 down, below
+- id: 358016
+  word: 滑
+  pron: huá
+  trans: slippery, smooth, to slide
+  chars:
+    滑: 氵water + 骨 bone
+- id: 358017
+  word: 豆花
+  pron: dòuhuā
+  trans: tofu pudding
+  chars:
+    豆: bean
+    花: flower, 艹 grass + 化 to change, to transform
+- id: 358018
+  word: 内脏
+  pron: nèizàng
+  trans: internal organs
+  chars:
+    内: inside, within, 冂 down box + 人 person
+    脏: dirty, ⺼ meat + 庄 village
+- id: 358019
+  word: 健身房
+  pron: jiànshēnfáng
+  trans: gym
+  chars:
+    健: healthy
+    身: body
+    房: room, house, 户 door + 方 square, direction
+
+
+
+
