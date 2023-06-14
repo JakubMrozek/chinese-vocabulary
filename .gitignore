@@ -1,0 +1,42 @@
+# Node.js
+node_modules/
+
+# Lokální výstupy z vývojového prostředí
+*.log
+*.log.*
+logs/
+tmp/
+dist/
+
+# Výstupy sestaveného kódu
+build/
+out/
+
+# Soubory s konfigurací
+.env
+
+# Závislosti spravované NPM
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Výstupy testů
+coverage/
+
+# IDE a editor specifické soubory
+.idea/
+.vscode/
+*.sublime-*
+*.swp
+
+# Soubory konfigurace editoru
+.editorconfig
+.eslintignore
+.eslintrc
+.jshintrc
+
+# Editorové soubory
+*.swp
+*~
+
+output.html
