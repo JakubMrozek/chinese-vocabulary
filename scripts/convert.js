@@ -1,8 +1,12 @@
 const fs = require('fs')
 const yaml = require('js-yaml')
 const ejs = require('ejs')
+const path = require('path')
 
-const yamlData = fs.readFileSync('../italki-2023-06-14.yml', 'utf8')
+const fileName = 'italki-2023-06-19.yml'
+const fullPath = path.join(__dirname, '..', 'italki-2023-06-19.yml')
+
+const yamlData = fs.readFileSync(fullPath, 'utf8')
 const jsonData = yaml.load(yamlData)
 
 const html = ejs.render(`    

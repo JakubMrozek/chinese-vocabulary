@@ -1,0 +1,53 @@
+- id: 359001
+  word: 室外
+  pron: shìwài
+  trans: outdoor
+  chars:
+    室: room, house, 宀 roof + 至 to arrive
+    外: outside, 夕 sunset + 卜 divination
+- id: 359002
+  word: 室内
+  pron: shìnèi
+  trans: indoor
+  chars:
+    室: room, house, 宀 roof + 至 to arrive
+    内: inside, within, 冂 down box + 人 person
+- id: 359003
+  word: 电视剧
+  pron: diànshìjù
+  trans: TV drama
+  chars:
+    电: electricity, lightning, 田 field, farm + 乚 second
+    视: to look, to see, to observe, to read, 礻spirit + 见 to see
+    剧: drama, play, 居 to sive, residence + 刂 knife
+- id: 359004
+  word: 女性
+  pron: nǚxìng
+  trans: female
+  chars: 
+    女: female
+    性: nature, character
+- id: 359005
+  word: 成熟
+  pron: chéngshú
+  trans: mature, ripe
+  chars:
+    成: to succeed, to finish, to complete, to accomplish, to become
+    熟: familiar with, skilled in
+- id: 359006
+  word: 一首歌
+  pron: yīshǒugē
+  trans: a song
+  chars:
+    一: one
+    首: head, chief, first, poem, song
+    歌: song, 哥 elder brother + 欠 to owe
+- id: 359007
+  word: 最终
+  pron: zuìzhōng
+  trans: finally
+  chars:
+    最: the most
+    终: end, final
+
+
