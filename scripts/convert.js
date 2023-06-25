@@ -4,7 +4,7 @@ const ejs = require('ejs')
 const path = require('path')
 
 const fileName = 'italki-2023-06-19.yml'
-const fullPath = path.join(__dirname, '..', 'italki-2023-06-19.yml')
+const fullPath = path.join(__dirname, '..', 'italki-2023-06-25.yml')
 
 const yamlData = fs.readFileSync(fullPath, 'utf8')
 const jsonData = yaml.load(yamlData)

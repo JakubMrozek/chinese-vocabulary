@@ -1,0 +1,42 @@
+- id: 500201
+  word: 断奶
+  pron: duànnǎi
+  trans: to wean (odstavit od mateřského mléka)
+  chars:
+    断: to break, to cut, to judge, 米 rice + 斤 axe
+    奶: breast, milk, 女 + 乃 then, really, indeed
+- id: 500202
+  word: 细语
+  pron: xìyǔ
+  trans: whisper
+  chars:
+    细: thin, detailed, 糸 silk + 田 field, farm
+    语: language, speech, words
+- id: 500203
+  word: 景象
+  pron: jǐngxiàng
+  trans: scene, sight
+  chars:
+    景: scenery, view, bright, 日 + 京 capital
+    象: elephant, ⺈ animal legs + 口 mouth + 豕 pig
+- id: 500204
+  word: 冷清
+  pron: lěngqīng
+  trans: cold and cheerless, unfrequented
+  chars:
+    冷: cold, 冫ice + 令 to order, to command
+    清: clear, pure, 氵water + 青 green
+- id: 500205
+  word: 气息
+  pron: qìxí
+  trans: atmosphere
+  chars:
+    气: air, gas
+    息: news
+- id: 500206
+  word: 暖气
+  pron: nuǎnqì
+  trans: heating
+  chars:
+    暖: warm, 日 + 爰 to lead on to, therefore
+    气: air, gas
